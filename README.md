@@ -5,6 +5,7 @@ A standalone, frontend-only demonstration of PrepPilot, an AI-assisted interview
 ## How to view
 
 Open `index.html` in a web browser, or enable GitHub Pages for this repository to host the demo online.
+Or follow this link https://kaif-khan7.github.io/PrepPilot-Frontend-Demo/
 
 ## Demo sections
 
